@@ -1,5 +1,7 @@
 # Jane Street Responsive Web Page
 
+![alt text](jane_street.png)
+
 ## Project Overview
 
 This project involved creating a responsive web page for Jane Street's Creative Engagement team. The task required transforming a Figma mockup into a functional and visually accurate webpage using HTML, SCSS, and JavaScript. The page dynamically renders program cards using data from a JSON file, sorted based on application status and program name, with a focus on responsive design and interactive elements.
