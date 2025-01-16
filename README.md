@@ -6,6 +6,10 @@
 
 This project involved creating a responsive web page for Jane Street's Creative Engagement team. The task required transforming a Figma mockup into a functional and visually accurate webpage using HTML, SCSS, and JavaScript. The page dynamically renders program cards using data from a JSON file, sorted based on application status and program name, with a focus on responsive design and interactive elements.
 
+## How to View
+
+[Jane Street Webpage](https://ekdeguzm.github.io/jane-street/)
+
 ## Features
 
 - **Dynamic Rendering:** Populated program cards dynamically using JSON data.
@@ -19,7 +23,6 @@ This project involved creating a responsive web page for Jane Street's Creative 
 - **HTML**: Structured the webpage content.
 - **SCSS**: Styled the page with reusable and maintainable stylesheets.
 - **JavaScript (with jQuery)**: Handled dynamic rendering and interactivity.
-- **CodePen**: Used as the development and deployment platform.
 - **Figma**: Referenced for UI mockup design.
 
 ## Example Output
